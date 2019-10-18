@@ -8,7 +8,7 @@ while(more):
 	print('3. Solve Angle-Angle-Side triangle.')
 	print('4. Solve Side-Side-Side triangle.')
 
-	option = int(input('>> '))
+	option = int(input('Choose a method >> '))
 
 	if option == 1:
 		side1 = float(input('Enter side 1: '))
